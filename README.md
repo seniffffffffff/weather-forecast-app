@@ -1,4 +1,5 @@
-Description
+**Description**
+
 This project is a weather forecast application that provides real-time weather data. It allows users to view the current weather conditions, including the maximum and minimum temperature, as well as visualize the average temperature over the past week on a chart.
 
 The main features of the project include:
@@ -8,13 +9,16 @@ Weather chart: Users can view a chart displaying the average temperature over th
 User-friendly interface: The project provides an intuitive and user-friendly interface for easy navigation and interaction.
 This weather forecast project aims to provide users with valuable insights into current weather conditions and temperature trends, enabling them to make informed decisions based on the weather forecast.
 
-Tech Stack
+**Tech Stack**
+
 React
 TypeScript
 Axios
 Material-UI (MUI)
 Next.js
-Installation
+
+**Installation**
+
 To run this project locally, follow these steps:
 
 Clone the repository:
@@ -43,7 +47,8 @@ Copy code
 npm run dev
 The project will be available at http://localhost:3000.
 
-Usage
+**Usage**
+
 To use this weather forecast application, follow the steps below:
 
 Clone the repository:
@@ -69,8 +74,10 @@ Copy code
 npm start
 Open your browser and visit the application at http://localhost:3000 to view the weather forecast.
 
-Deployment
+**Deployment**
+
 To deploy the project, follow the steps mentioned in the Deployment Documentation.
 
-Contact
+**Contact**
+
 For any inquiries or feedback, please contact [Notch239@gmail.com].
